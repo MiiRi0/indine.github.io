@@ -1,0 +1,71 @@
+
+#container {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 100%;
+}
+
+#header {
+    display: flex;
+    font-size: 5em;
+    margin: 10px;
+    justify-content: center;
+}
+
+
+#content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+    text-align: center;
+    font-size: 3em;
+    background-color: rgb(157, 199, 118);
+}
+
+
+#footer{
+    font-size: 3em;
+    margin: 70px;
+    text-align: center;
+    background-color: rgb(157, 199, 118);
+}
+
+#Um {
+    font-size: 3em;
+    background-color: rgb(157, 199, 118);
+    margin: 70px;
+    text-align: center;
+    color: rgb(157, 199, 118);
+}
+
+#yup {
+    font-size: 3em;
+    background-color: rgb(157, 199, 118);
+    margin: 70px;
+    text-align: center;
+    color: rgb(157, 199, 118);
+}
+
+#uhu {
+    font-size: 3em;
+    background-color: rgb(157, 199, 118);
+    margin: 70px;
+    text-align: center;
+    color: rgb(157, 199, 118);
+}
+
+#yes {
+    font-size: 3em;
+    background-color: rgb(157, 199, 118);
+    margin: 70px;
+    text-align: center;
+    color: rgb(157, 199, 118);
+}
+
+body {
+    background-color: rgb(190, 215, 167);;
+}
